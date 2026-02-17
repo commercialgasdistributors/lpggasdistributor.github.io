@@ -1,9 +1,0 @@
-<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="160" height="160" rx="34" fill="#191933"/>
-  <path d="M82 24C96 43 101 53 101 66C101 79 92 90 80 90C68 90 59 80 59 68C59 54 68 42 82 24Z" fill="#C10C1D"/>
-  <path d="M80 40C88 52 91 58 91 66C91 74 86 80 80 80C73 80 68 74 68 67C68 59 72 52 80 40Z" fill="#fff" fill-opacity="0.88"/>
-  <rect x="44" y="91" width="72" height="42" rx="8" fill="#C10C1D"/>
-  <rect x="54" y="100" width="52" height="8" rx="4" fill="#fff" fill-opacity="0.95"/>
-  <rect x="54" y="113" width="34" height="8" rx="4" fill="#fff" fill-opacity="0.95"/>
-  <text x="80" y="149" text-anchor="middle" font-size="15" font-family="Arial, sans-serif" font-weight="700" fill="#fff">CGD</text>
-</svg>
